@@ -1,4 +1,5 @@
 # bamazonmysql
+The purpose of this application is to simulate a store. A list of items is given as an option for purchase followed by a request for how many of each item is wanted. Finally, the stock level is checked and if available, the purchase is completed with a listing of items purchased and the total cost.  
 
 Task 1 - show all items available for sale by product ID, Item and Price:
 
